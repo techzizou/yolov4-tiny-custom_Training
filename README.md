@@ -1,14 +1,18 @@
-# Yolov4-tiny
+# Training a custom Yolov4-tiny detector for mask detection
 
 
-Colab tutrial for training custom Yolov4-tiny detector.
+Colab tutorial for training custom Yolov4-tiny detector.
 
 https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing
 
+# Object Detection for masks
+
 ![](a.gif)
+
+
 Check out my Medium article for this.
 
-https://medium.com/@techzizou007/training-a-custom-detector-using-yolov4-darknet-61a659d4868
+https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-using-yolov4-tiny-darknet-b58be08c9593
 
 Also , check out my YouTube video on this 
 
