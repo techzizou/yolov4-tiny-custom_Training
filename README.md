@@ -10,7 +10,7 @@ https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sh
 ![](a.gif)
 
 
-Check out my Medium article for this.
+Check out my Medium article on this.
 
 https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-using-yolov4-tiny-darknet-b58be08c9593
 
