@@ -43,6 +43,8 @@ You can download labeled datasets from the sites mentioned below. These sites co
 
 *   [VisualData Datasets](https://www.visualdata.io/discovery)
 
+**Remember:**  Garbage In = Garbage Out. Choosing and labeling images is the most important part. Try to find good quality images.
+
 
    **MASK DATASET SOURCES**
 
