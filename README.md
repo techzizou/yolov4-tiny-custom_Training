@@ -1,3 +1,10 @@
+# What is YOLOv4-tiny?
+
+YOLOv4-tiny is proposed based on YOLOv4 to simple the network structure and reduce parameters, which makes it be suitable for developing on mobile and embedded devices. YOLOv4-tiny is the compressed version of YOLOv4. It has only two YOLO heads as opposed to three in YOLOv4. It is trained from 29 pre-trained convolutional layers.
+The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of YOLOv4. However, YOLOv4-tiny gets 40 mAP@ IoU=0.5(AP50) on the MS COCO dataset as compared to 65.7 of YOLOv4.
+
+
+
 # Training a custom Yolov4-tiny detector for mask detection
 
 
