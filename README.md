@@ -9,6 +9,8 @@ YOLOv4-tiny is proposed based on YOLOv4 to simple the network structure and redu
 
 The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of YOLOv4. However, YOLOv4-tiny gets 40 mAP@ IoU=0.5(AP50) on the MS COCO dataset as compared to 65.7 of YOLOv4.
 
+![](vs.png)
+
 
 # Object Detection for masks
 
