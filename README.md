@@ -5,9 +5,11 @@
 
 ## What is YOLOv4-tiny?
 
-YOLOv4-tiny is proposed based on YOLOv4 to simple the network structure and reduce parameters, which makes it be suitable for developing on mobile and embedded devices. YOLOv4-tiny is the compressed version of YOLOv4. It has only two YOLO heads as opposed to three in YOLOv4. It is trained from 29 pre-trained convolutional layers.
+YOLOv4-tiny is proposed based on YOLOv4 to simple the network structure and reduce parameters, which makes it be suitable for developing on mobile and embedded devices. We can use YOLOv4-tiny for much faster training and much faster detection. It is the compressed version of YOLOv4. It has only two YOLO heads as opposed to three in YOLOv4. It is trained from 29 pre-trained convolutional layers.
 
-The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of YOLOv4. However, YOLOv4-tiny gets 40 mAP@ IoU=0.5(AP50) on the MS COCO dataset as compared to 65.7 of YOLOv4.
+The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of YOLOv4. However, the accuracy for YOLOv4-tiny is 2/3rds that of YOLOv4 when tested on the MS COCO dataset. 
+
+The YOLOv4-tiny model achieves 22.0% AP (42.0% AP50) at a speed of 443 FPS on RTX 2080Ti, while by using TensorRT, batch size = 4 and FP16-precision the YOLOv4-tiny achieves 1774 FPS.
 
 ![](vs.png)
 
@@ -17,15 +19,15 @@ The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of 
 ![](a.gif)
 
 
-Colab tutorial for training a custom Yolov4-tiny detector.
+## Colab tutorial for training a custom Yolov4-tiny detector.
 
 https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing
 
-Check out my Medium article on this.
+## My Medium article on this.
 
 https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-using-yolov4-tiny-darknet-b58be08c9593
 
-Also , check out my YouTube video on this 
+## My YouTube video on this 
 
 [Youtube Link](https://www.youtube.com)
 
@@ -44,7 +46,7 @@ Also , check out my YouTube video on this
 
    **DATASET SOURCES**
 
-You can download labeled datasets from the sites mentioned below. These sites contain images of many classes along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
+You can download many non-labeled datasets from the sites mentioned below. These sites also contain images of many classes of objects along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
 
 *   [Open Images Dataset by Google](https://storage.googleapis.com/openimages/web/index.html)
 
