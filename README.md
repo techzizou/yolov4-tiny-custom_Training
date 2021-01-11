@@ -35,18 +35,24 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 # **CREDITS**
 
-   **REFERENCES**
+   **References**
  
 *    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
 
 *    [pjreddie Github ](https://github.com/pjreddie/darknet)
 
-*    [theAIGuysCode GitHub](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial)
+*    [theAIGuysCode Github](https://github.com/theAIGuysCode/YOLOv4-Cloud-Tutorial) 
+
+*    [Paper YOLOv4](https://arxiv.org/abs/2004.10934)
+
+*    [Paper YOLOv4-scaled](https://arxiv.org/abs/2011.08036)
+
+*    [pjreddie Site](https://pjreddie.com/darknet/yolo/)
 
 
-   **DATASET SOURCES**
+   **Dataset Sources**
 
-You can download many non-labeled datasets from the sites mentioned below. These sites also contain images of many classes of objects along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
+You can download datasets for many objects from the sites mentioned below. These sites also contain images of many classes of objects along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
 
 *   [Open Images Dataset by Google](https://storage.googleapis.com/openimages/web/index.html)
 
@@ -57,7 +63,7 @@ You can download many non-labeled datasets from the sites mentioned below. These
 *   [VisualData Datasets](https://www.visualdata.io/discovery)
 
 
-   **MASK DATASET SOURCES**
+   **Mask Dataset Sources**
 
 *   [Prajnasb Github](https://github.com/prajnasb/observations)
 
@@ -67,7 +73,7 @@ You can download many non-labeled datasets from the sites mentioned below. These
 
 *   [Chandrikadeb7 Github](https://github.com/chandrikadeb7/Face-Mask-Detection)
 
-   **VIDEO SOURCES**
+   **Video Sources**
     
 *   [Pexels site](https://www.pexels.com/)
 
