@@ -29,7 +29,7 @@ The YOLOv4-tiny model achieves 22.0% AP (42.0% AP50) at a speed of 443 FPS on RT
 ![](vs.png)
 
 
-# **CREDITS**
+## **CREDITS**
 
    **References**
  
