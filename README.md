@@ -18,11 +18,11 @@ The **yolov4-tiny-custom.cfg**, **obj.data**, and **obj.names** files are custom
 
 **<ins>NOTE</ins>: You can edit these custom files for your custom object dataset**
 
-## Colab tutorial for training a custom Yolov4-tiny detector.
+## Colab tutorial for training a custom Yolov4-tiny detector
 
 https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing
 
-## My Medium article on this.
+## My Medium article on this
 
 https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-using-yolov4-tiny-darknet-b58be08c9593
 
