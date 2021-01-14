@@ -8,10 +8,13 @@
 
 ## Mask detection using YOLOv4-tiny
 
-The **yolov4-tiny** folder contains all the 5 custom files needed. (i.e. **obj.zip**, **yolov4-tiny-custom.cfg**, **obj.data**, **obj.names** and **process.py**)
+The **yolov4-tiny** folder contains the 4 custom files needed. (i.e. **yolov4-tiny-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images)
 
-The **obj** folder contains 1370 images along with their YOLO labeled text files. These images are mostly close-up images. If you want to download more long shot images, you can search for datasets online. There are many sites where you can find more datasets. See the links at the bottom. 
+I will be sharing my labeled custom mask dataset **obj.zip** file on the following link. You can download it from here.
 
+
+
+The **obj.zip** file contains 1370 images along with their YOLO labeled text files. These images are mostly close-up images. If you want to download more long shot images, you can search for datasets online. There are many sites where you can find more datasets. See the links at the bottom. 
 There are approximately 950 images for class **with_mask** and approximately 450 images for class **without_mask**. You can add your own images and their YOLO labeled text files to it. Try to find good quality images.
 
 The **yolov4-tiny-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. with_mask & without_mask) 
