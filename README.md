@@ -2,9 +2,19 @@
 
 # Training a custom detector for Object Detection using YOLOv4-tiny
 
-## Mask detection using YOLOv4-tiny
 
 ![](a.gif)
+
+
+## Mask detection using YOLOv4-tiny
+
+The yolov4 folder contains all the 5 custom files needed. (i.e. obj.zip, yolov4-tiny-custom.cfg, obj.data, obj.names and process.py)
+
+The **obj** folder contains 1370 images along with their YOLO labeled text files. These images are mostly close-up images. If you want to download more long range images, you can search for datasets online. I will be giving the links for collecting datasets at the bottom .
+
+There are approximately 900 images for class **with_mask** and 400 images for class **without_mask**. You can add your own images and their YOLO labeled text files to it. Try to find good quality images.
+
+The **yolov4-tiny-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I will be working with. (i.e. with_mask & without_mask) 
 
 
 ## Colab tutorial for training a custom Yolov4-tiny detector.
@@ -22,15 +32,7 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 ![](test2-tiny.gif)
 
 
-## What is YOLOv4-tiny?
 
-YOLOv4-tiny is proposed based on YOLOv4 to simple the network structure and reduce parameters, which makes it be suitable for developing on mobile and embedded devices. We can use YOLOv4-tiny for much faster training and much faster detection. It is the compressed version of YOLOv4. It has only two YOLO heads as opposed to three in YOLOv4. It is trained from 29 pre-trained convolutional layers.
-
-The FPS (Frames Per Second) in YOLOv4-tiny is approximately eight times that of YOLOv4. However, the accuracy for YOLOv4-tiny is 2/3rds that of YOLOv4 when tested on the MS COCO dataset. 
-
-The YOLOv4-tiny model achieves 22.0% AP (42.0% AP50) at a speed of 443 FPS on RTX 2080Ti, while by using TensorRT, batch size = 4 and FP16-precision the YOLOv4-tiny achieves 1774 FPS.
-
-![](vs.png)
 
 
 ## **CREDITS**
@@ -38,6 +40,32 @@ The YOLOv4-tiny model achieves 22.0% AP (42.0% AP50) at a speed of 443 FPS on RT
    **References**
  
 *    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
+
+
+## **Dataset Sources**
+You can download datasets for many objects from the sites mentioned below. These sites also contain images of many classes of objects along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
+
+*   [Open Images Dataset by Google](https://storage.googleapis.com/openimages/web/index.html)
+
+*   [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+*   [Roboflow Public Datasets](https://public.roboflow.com/)
+
+*   [VisualData Datasets](https://www.visualdata.io/discovery)
+
+
+## **Mask Dataset Sources**
+*   [Prajnasb Github](https://github.com/prajnasb/observations)
+
+*   [Andrewmvd Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection)
+
+*   [X-zhangyang Github](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
+
+*   [Chandrikadeb7 Github](https://github.com/chandrikadeb7/Face-Mask-Detection)
+
+## **Video Sources**
+
+*  [Pexels site](https://www.pexels.com/)
 
 
 
