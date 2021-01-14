@@ -37,12 +37,12 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 ## **CREDITS**
 
-   **References**
+###   **References**
  
 *    [Alexey AB GitHub ](https://github.com/AlexeyAB/darknet)
 
 
-## **Dataset Sources**
+### **Dataset Sources**
 You can download datasets for many objects from the sites mentioned below. These sites also contain images of many classes of objects along with their annotations/labels in multiple formats such as the YOLO_DARKNET txt files and the PASCAL_VOC xml files.
 
 *   [Open Images Dataset by Google](https://storage.googleapis.com/openimages/web/index.html)
@@ -54,7 +54,7 @@ You can download datasets for many objects from the sites mentioned below. These
 *   [VisualData Datasets](https://www.visualdata.io/discovery)
 
 
-## **Mask Dataset Sources**
+### **Mask Dataset Sources**
 *   [Prajnasb Github](https://github.com/prajnasb/observations)
 
 *   [Andrewmvd Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection)
@@ -63,7 +63,7 @@ You can download datasets for many objects from the sites mentioned below. These
 
 *   [Chandrikadeb7 Github](https://github.com/chandrikadeb7/Face-Mask-Detection)
 
-## **Video Sources**
+### **Video Sources**
 
 *  [Pexels site](https://www.pexels.com/)
 
