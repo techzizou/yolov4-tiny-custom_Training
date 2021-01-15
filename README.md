@@ -20,7 +20,7 @@ These images are mostly close-up images. If you want to download more long shot 
 
 The **yolov4-tiny-custom.cfg**, **obj.data**, and **obj.names** files are customized for the 2 classes I am working with. (i.e. with_mask & without_mask) 
 
-**<ins>NOTE</ins>: You can edit these custom files for your custom object dataset**
+**<ins>NOTE</ins>: You can edit these files for your custom object dataset**
 
 ## Colab tutorial for training a custom Yolov4-tiny detector
 
