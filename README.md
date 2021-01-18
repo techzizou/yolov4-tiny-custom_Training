@@ -3,7 +3,7 @@
 # Training a custom detector for Object Detection using YOLOv4-tiny
 
 
-![](a.gif)
+![](yolov4-tiny-custom.gif)
 
 
 ## Mask detection using YOLOv4-tiny
