@@ -36,3 +36,19 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 ![](test2-tiny.gif)
 
+# CREDITS 
+
+## References
+[AlexeyAB GitHub](https://github.com/AlexeyAB/darknet/)
+
+
+## Mask Dataset Sources
+
+[Prajnasb Github](https://github.com/prajnasb/observations)
+[Joseph Nelson Roboflow](https://public.roboflow.com/object-detection/mask-wearing)
+[X-zhangyang Github](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
+
+## Video Sources
+
+[Pexels site](https://www.pexels.com)
+
