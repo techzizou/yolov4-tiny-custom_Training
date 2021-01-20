@@ -1,6 +1,6 @@
 
 
-# Training a custom detector for Object Detection using YOLOv4-tiny
+# Training a custom YOLOv4-tiny object detector 
 
 
 ![](yolov4-tiny-custom.gif)
