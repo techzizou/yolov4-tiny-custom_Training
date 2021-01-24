@@ -35,6 +35,7 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 [Youtube Link](https://www.youtube.com)
 
 ![](test2-tiny.gif)
+
 Video by Nothing Ahead from Pexels
 
 # CREDITS 
