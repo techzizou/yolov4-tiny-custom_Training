@@ -5,7 +5,7 @@
 
 ![](yolov4-tiny-custom.gif)
 
-Video by cottonbro from Pexels
+Original Video by cottonbro from Pexels
 
 
 ## Mask detection using YOLOv4-tiny
@@ -38,7 +38,7 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 ![](test2-tiny.gif)
 
-Video by Nothing Ahead from Pexels
+Original Video by Nothing Ahead from Pexels
 
 # CREDITS 
 
