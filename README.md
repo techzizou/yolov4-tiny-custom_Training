@@ -12,6 +12,8 @@ Original Video by cottonbro from Pexels
 
 The **yolov4-tiny** folder in this repository contains the 4 custom files needed. (i.e. **yolov4-tiny-custom.cfg**, **obj.data**, **obj.names** and **process.py**) except **obj.zip**(labeled images). I have shared my labeled custom mask dataset **obj.zip** file on the following link. You can download it from here.
 
+www.kaggle.com/dataset/ab93f8a86869d2deca869400168975cd2adaf495c1ba02246962b0f7352a5d95
+
 https://drive.google.com/file/d/15HYpPsT-GTWO8vIVOrVnHlBkJ_MdWJza/view?usp=sharing
 
 
