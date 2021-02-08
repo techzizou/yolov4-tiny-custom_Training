@@ -14,8 +14,6 @@ The **yolov4-tiny** folder in this repository contains the 4 custom files needed
 
 www.kaggle.com/dataset/ab93f8a86869d2deca869400168975cd2adaf495c1ba02246962b0f7352a5d95
 
-https://drive.google.com/file/d/15HYpPsT-GTWO8vIVOrVnHlBkJ_MdWJza/view?usp=sharing
-
 
 The **obj.zip** file contains 1510 images along with their YOLO labeled text files. I have labeled around 1350 of these and downloaded 149 labeled images from roboflow. I have given the links for my dataset sources at the bottom. 
 
