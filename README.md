@@ -31,7 +31,7 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 ## Watch my YouTube video on this 
 
-[Yolov4-tiny Custom Object Training](https://youtu.be/pVqvDSjSQ1s)
+https://youtu.be/pVqvDSjSQ1s
 
 
 # CREDITS 
