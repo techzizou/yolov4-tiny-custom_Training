@@ -33,9 +33,6 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 [Yolov4-tiny Custom Object Training](https://youtu.be/pVqvDSjSQ1s)
 
-![](test2-tiny.gif)
-
-Original Video by Nothing Ahead from Pexels
 
 # CREDITS 
 
@@ -57,3 +54,7 @@ I have used these 3 datasets for my labeled **obj.zip** dataset. Check out my me
 ## Video Sources
 
 [Pexels site](https://www.pexels.com)
+
+![](test2-tiny.gif)
+
+Original Video by Nothing Ahead from Pexels
