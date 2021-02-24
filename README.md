@@ -31,6 +31,7 @@ https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-u
 
 ## Watch my YouTube video on this 
 
+https://youtu.be/Atzwcy9RTY4
 
 
 
