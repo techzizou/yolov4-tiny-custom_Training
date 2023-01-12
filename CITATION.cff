@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ' yolov4-tiny-custom_Training'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - name-particle: techzizou
+    email: admin@techzizou.com
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/techzizou/yolov4-tiny-custom_Training
+    description: Github
+url: >-
+  https://github.com/techzizou/yolov4-tiny-custom_Training
+date-released: '2020-12-27'
